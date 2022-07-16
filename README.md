@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 I'm [Anvesh Jain](https://www.linkedin.com/in/anvesh-jain-0110/). 
-I'm currently pursuing a B.E. degree in Computer Engineering at [Thapar Institute Of Engineering And Technolgy](http://www.thapar.edu/). 
+I'm currently pursuing a B.E. degree in Computer Engineering at [Thapar Institute of Engineering and Technology](http://www.thapar.edu/). 
 
 - 🔭 I’m currently working on upskilling myself
 - 🌱 I’m currently learning Data Structures & Algorithms, Jetson Nano, Machine Learning
