@@ -8,7 +8,6 @@ I'm currently pursuing a B.E. degree in Computer Engineering at [Thapar Institut
 
 - 🔭 I’m currently working on upskilling myself
 - 🌱 I’m currently learning Data Structures & Algorithms, Jetson Nano, Machine Learning
-- 💬 My interests include  
 - 📫 How to reach me: jainanvesh0110@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like photography,listening to music and watching stand-up comedy. 
